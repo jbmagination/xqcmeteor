@@ -7,6 +7,8 @@
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         http://icons.duckduckgo.com/ip2/reddit.com.ico
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/jbmagination/xqcmeteor/main/xqcmeteor.user.js
+// @updateURL    https://raw.githubusercontent.com/jbmagination/xqcmeteor/main/xqcmeteor.user.js
 // ==/UserScript==
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
