@@ -10,6 +10,7 @@
 // @downloadURL  https://raw.githubusercontent.com/jbmagination/xqcmeteor/main/xqcmeteor.user.js
 // @updateURL    https://raw.githubusercontent.com/jbmagination/xqcmeteor/main/xqcmeteor.user.js
 // ==/UserScript==
+// <3
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
             document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
