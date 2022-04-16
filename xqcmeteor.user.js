@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Pre xQc-meteor template
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  WE CAN DO THIS
+// @namespace    https://jbmagination.com/verygood
+// @version      0.2
+// @description  aSBmaW5kIHRoZSBjbG9ha1MgYmVoaW5kIG1lLgpzb21lVGhpbmcgdEVsbHMgbWUgdGhhdCBpIG5lZWQgdG8gR28uCmJ1dCBpIGtlZXAgbG9va2luZy4KCnRoZSBkb29yJ3MgbG9ja2VkLg== ‍‍‌⁡⁢‍‌⁡‌⁡⁢‍⁢‌⁢‌⁡‌‍⁤‍‌‍‍⁡⁢⁣‌⁢⁢⁡‍‌⁢⁢⁢‌⁢⁡⁢‍‌‍⁡‍‍‌⁤⁢⁡⁢⁢⁡⁢⁡‍‍⁡‍⁡‍⁡‍⁡‌‍‍⁢‍‍⁢⁣‌⁡⁢‌⁤⁢‍⁡‌⁢⁢⁢‌⁡⁢‍‌⁢⁣⁢‌‍⁣⁢‍‍‍⁡⁢‍‍⁡⁢⁢⁣⁡‌⁤⁡⁢⁤‍⁣⁡‌⁢‍‍‌⁢⁡⁣‍⁢⁣⁡⁢‍⁡⁢‍⁤⁡⁢⁢⁡‌⁢⁤⁤⁢‍‍⁡‍‌⁡⁢‌⁡‌⁢⁢‍‌⁢⁡‍⁣⁤⁡⁣‌⁡‌⁡‌‍‌‍⁣‍⁤⁡‍⁢‍⁢⁢⁢⁡⁢‍‍‍⁣⁡⁢‌⁢‌‍⁡⁢‌‍‍⁢⁡‍⁢⁡‌‍⁢‌‍‌⁤⁣⁢⁣‍⁡‍⁢⁢⁢‍⁡⁣‍‌⁢⁡⁣‌⁤‍‌⁡‌⁡⁢⁡‍⁤⁡‌⁤⁢‌⁡‍⁢‌‍⁣‍‍‍‌⁢⁢‍‌⁢‍⁢⁢⁡‍⁣‌⁡‍⁡‍‍‌⁡⁣‍‌⁢⁣‍‌⁢⁣‌⁡⁢⁢⁡⁢‌‍⁢<3
 // @author       oralekin & JBMagination - script, u/MartyStarkiller - image
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         http://icons.duckduckgo.com/ip2/reddit.com.ico
